@@ -42,3 +42,36 @@ body {
   text-align: center;
   color: #ffffff;
 }
+/* mobile */
+.mobile-title {
+  font-size: 36px;
+  line-height: calc(53 / 36);
+  text-align: center;
+  color: #323232;
+}
+
+.mobile-text {
+  font-size: 16px;
+  line-height: calc(25 / 16);
+  text-align: center;
+  color: #999999;
+}
+.mobile-title-item {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: calc(22 / 18);
+  color: #000000;
+}
+.mobile-item-tex {
+  font-size: 14px;
+  line-height: calc(22 / 14);
+  color: #999999;
+}
+.mobile-btn {
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: calc(20 / 16);
+  text-align: center;
+  color: #ffffff;
+}
