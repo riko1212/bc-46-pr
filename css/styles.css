@@ -35,12 +35,19 @@ p, h1, h2, h3, h4, h5, h6, ul {
   line-height: 1.25;
   color: #ffffff;
 }
+
+.hero {
+  padding-top: 319px;
+  padding-bottom: 335px;
+  background-color: gray;
+}
 .hero-text {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.25;
   text-align: center;
   color: #ffffff;
+  margin-bottom: 20px;
 }
 .hero-title {
   font-weight: 800;
@@ -48,6 +55,9 @@ p, h1, h2, h3, h4, h5, h6, ul {
   line-height: 1.33;
   text-align: center;
   color: #ffffff;
+  width: 829px;
+  margin: 0 auto;
+  margin-bottom: 50px;
 }
 .hero-button {
   font-family: inherit;
@@ -56,6 +66,9 @@ p, h1, h2, h3, h4, h5, h6, ul {
   line-height: 1.25;
   text-align: center;
   color: #ffffff;
+  
+  display: block;
+  margin: 0 auto;
 }
 /* mobile */
 .mobile-title {
