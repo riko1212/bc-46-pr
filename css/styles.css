@@ -127,13 +127,24 @@ ul {
   display: block;
   margin: 0 auto;
 }
+.standart {
+  padding-top: 100px;
+  padding-bottom: 70px;
+}
 .standart-title {
+  padding-bottom: 60px;
   font-size: 36px;
   line-height: calc(53 / 36);
   color: #323232;
 }
 
+.standart-top {
+  padding-bottom: 90px;
+  border-bottom: 1px solid #000;
+  margin-bottom: 70px;
+}
 .standart-text {
+  padding-bottom: 42px;
   font-size: 16px;
   line-height: calc(25 / 16);
   color: #999999;
